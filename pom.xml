@@ -501,10 +501,11 @@
         </profile>
     </profiles>
 </project>
-
+  <!--
 <distributionManagement> 
   <repository>
   <id>id</id>
   <name>name</name>
   <url>http://172.18.219.236:8082/nexus/content/repositories/id</url>
   </repository>
+-->
